@@ -8,7 +8,7 @@ Software · Backend · AI · Open Source
 
 <br>
 
-<a href="https://github.com/UTSAV-2024">
+<a href="https://github.com/UTSAV-22-DEV">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -42,12 +42,12 @@ backend systems, developer tools, and AI-powered applications.
 
 <div align="center">
 
-<a href="https://github.com/UTSAV-2024">
-<img src="https://github-readme-stats.vercel.app/api?username=UTSAV-2024&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%">
+<a href="https://github.com/UTSAV-22-DEV">
+<img src="https://github-readme-stats.vercel.app/api?username=UTSAV-22-DEV&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%">
 </a>
 
-<a href="https://github.com/UTSAV-2024">
-<img src="https://streak-stats.demolab.com/?user=UTSAV-2024&hide_border=true&theme=transparent" width="48%">
+<a href="https://github.com/UTSAV-22-DEV">
+<img src="https://streak-stats.demolab.com/?user=UTSAV-22-DEV&hide_border=true&theme=transparent" width="48%">
 </a>
 
 </div>
@@ -56,8 +56,8 @@ backend systems, developer tools, and AI-powered applications.
 
 <div align="center">
 
-<a href="https://github.com/UTSAV-2024">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UTSAV-2024&theme=github-compact&hide_border=true&area=true" width="100%">
+<a href="https://github.com/UTSAV-22-DEV">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UTSAV-22-DEV&theme=github-compact&hide_border=true&area=true" width="100%">
 </a>
 
 </div>
@@ -66,8 +66,8 @@ backend systems, developer tools, and AI-powered applications.
 
 <div align="center">
 
-<a href="https://github.com/UTSAV-2024">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UTSAV-2024&theme=github_dark" width="100%">
+<a href="https://github.com/UTSAV-22-DEV">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UTSAV-22-DEV&theme=github_dark" width="100%">
 </a>
 
 </div>
@@ -228,7 +228,7 @@ websites across multiple AI-readiness checks.
 
 <br>
 
-<a href="https://github.com/UTSAV-2024">
+<a href="https://github.com/UTSAV-22-DEV">
 View GitHub →
 </a>
 
@@ -247,7 +247,7 @@ retrieval, verification, and report generation.
 
 <br>
 
-<a href="https://github.com/UTSAV-2024">
+<a href="https://github.com/UTSAV-22-DEV">
 View GitHub →
 </a>
 
@@ -270,7 +270,7 @@ frontend, backend, and authentication services.
 
 <br>
 
-<a href="https://github.com/UTSAV-2024">
+<a href="https://github.com/UTSAV-22-DEV">
 View GitHub →
 </a>
 
@@ -411,7 +411,7 @@ AI Engineering
 
 <br>
 
-<a href="https://github.com/UTSAV-2024">
+<a href="https://github.com/UTSAV-22-DEV">
 <img src="https://img.shields.io/badge/GitHub-UTSAVKUMAR--22--DEV-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -433,7 +433,7 @@ AI Engineering
 
 <br><br>
 
-<a href="https://github.com/UTSAV-2024">GitHub</a>
+<a href="https://github.com/UTSAV-22-DEV">GitHub</a>
 &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/utsav-kumar-115441291/">LinkedIn</a>
 &nbsp; · &nbsp;
